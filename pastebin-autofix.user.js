@@ -7,6 +7,7 @@
 // @version     1.0.0
 // @updateURL	https://raw.githubusercontent.com/nikeee/pastebin-autofix/master/pastebin-autofix.user.js
 // @downloadURL https://raw.githubusercontent.com/nikeee/pastebin-autofix/master/pastebin-autofix.user.js
+// @icon        http://pastebin.com/i/fb2.jpg
 // @grant       none
 // ==/UserScript==
 
