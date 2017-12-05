@@ -4,10 +4,10 @@
 // @description Autosets default expiration/exposure
 // @include     http://pastebin.com/
 // @include     https://pastebin.com/
-// @version     1.2.0
+// @version     1.3.0
 // @updateURL	https://nikeee.github.io/pastebin-autofix/pastebin-autofix.user.js
 // @downloadURL https://nikeee.github.io/pastebin-autofix/pastebin-autofix.user.js
-// @icon        http://pastebin.com/i/fb2.jpg
+// @icon        https://pastebin.com/i/facebook.png
 // @grant       none
 // ==/UserScript==
 
